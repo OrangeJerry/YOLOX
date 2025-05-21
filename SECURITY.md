@@ -10,9 +10,12 @@ Instead, report it using one of the following ways:
 
 Contact the Yolox Foundation Security Team via email
 Create a confidential issue in the Yolox Foundation Vulnerability Reporting Tracker
-You can find more information about reporting and disclosure at the Yolox Foundation Security page.
 
 Please include as much of the information listed below as you can to help us better understand and resolve the issue:
+
+Yolox GitHub's private vulnerability reporting.
+
+To learn more about this feature and how to submit a vulnerability report, review GitHub's documentation on private reporting.
 
 The type of issue (e.g., buffer overflow, SQL injection, or cross-site scripting)
 Affected version(s)
